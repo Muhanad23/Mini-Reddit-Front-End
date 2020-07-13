@@ -1,6 +1,35 @@
 # Mini-Reddit
 It is a mimic front-end for reddit website including connections with the API.
 
+
+<div class="image123">
+    <div class="imgContainer" style="margin_right:10px">
+        <img src="https://github.com/Muhanad23/Mini-Reddit-Front-End/blob/master/src/assets/2.png" />
+    </div>
+    <div class="imgContainer">
+        <img class="middle-img" src="https://github.com/Muhanad23/Mini-Reddit-Front-End/blob/master/src/assets/4.png"/>
+    </div>
+    <div class="imgContainer">
+        <img class="middle-img" src="https://github.com/Muhanad23/Mini-Reddit-Front-End/blob/master/src/assets/6.png"/>
+    </div>
+  <div class="imgContainer">
+        <img class="middle-img" src="https://github.com/Muhanad23/Mini-Reddit-Front-End/blob/master/src/assets/5.png"/>
+   </div>
+  <div class="imgContainer">
+        <img class="middle-img" src="https://github.com/Muhanad23/Mini-Reddit-Front-End/blob/master/src/assets/7.png"/>
+    </div>
+  <div class="imgContainer">
+        <img class="middle-img" src="https://github.com/Muhanad23/Mini-Reddit-Front-End/blob/master/src/assets/8.png"/>
+    </div>
+  <div class="imgContainer">
+        <img class="middle-img" src="https://github.com/Muhanad23/Mini-Reddit-Front-End/blob/master/src/assets/9.png"/>
+    </div>
+  <div class="imgContainer">
+        <img class="middle-img" src="https://github.com/Muhanad23/Mini-Reddit-Front-End/blob/master/src/assets/10.png"/>
+    </div>
+</div>
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.4.
 
 ## Development server
@@ -28,7 +57,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ## Contributors
-* Amira Mehrez
-* Salma Mohamed
 * [Mahmoud Mohamad](https://github.com/mmmacmp)
 * [Muhanad Atef](https://github.com/Muhanad23)
+* Amira Mehrez
+* Salma Mohamed
