@@ -58,6 +58,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Contributors
 * [Mahmoud Mohamad](https://github.com/mmmacmp)
-* [Muhanad Atef](https://github.com/Muhanad23)
+* [Muhanad Atef](https://github.com/MuhanadAtef)
 * Amira Mehrez
 * Salma Mohamed
